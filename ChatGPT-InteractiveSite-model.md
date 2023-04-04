@@ -17,7 +17,39 @@ This document is intended to share the prompting used for the project as a whole
 <ul>
 <li>
 <details open="open">
-  <summary>The Initial Prompt - Request HTML</summary>
+  <summary>Initial Prompt: request plan of attack</summary>
+  I need to create a webpage titled "The Periodic Table of Black History". This webpage will need:
+
+    1. A grid of squares modeled after the table of elements, but with:
+
+      1a. The initials of historical figures instead of chemical symbols
+  
+      1b. The date of birth of historical figures instead of mass
+
+    2. Each square to be a button that, when clicked, reveals a modal window (or light box) which:
+
+      2a. Slides from the right side of the page, covering the entire site
+    
+      2b. Is to be populated (from a Google Spreadsheet through Google Apps Script) with:
+
+        2b-i. The historical figure's name at the top
+  
+        2b-ii. The historical figure's date of birth (and optionally date of death) in parentheses to the right of their name
+  
+        2b-iii. An optional YouTube video (in the Google Spreadsheet as a URL) embedded below the name and date(s)
+  
+        2b-iv. An image (in the Google Spreadsheet as a URL) of the historical figure below the name/dates or below the video if included
+    
+        2b-v. A paragraph of text about the historical figure to the right of their image
+
+        2b-vi. Has an X to close the modal window, returning the viewer to the table
+
+    3. To be a responsive design so that viewers using different devices can navigate the webpage
+
+Please help me by creating an outline of steps needed to build this page.
+<li>
+<details>
+  <summary>Request HTML</summary>
   I need to create a webpage titled "The Periodic Table of Black History". This webpage will need:
   
     1. A grid of squares modeled after the table of elements, but with:
