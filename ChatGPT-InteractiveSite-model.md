@@ -30,15 +30,15 @@ This document is intended to share the prompting used for the project as a whole
 
       2a. Slides from the right side of the page, covering the entire site
     
-      2b. Is to be populated (from a Google Spreadsheet through Google Apps Script) with:
+      2b. Is to be populated (from a CSV file) with:
 
         2b-i. The historical figure's name at the top
   
         2b-ii. The historical figure's date of birth (and optionally date of death) in parentheses to the right of their name
   
-        2b-iii. An optional YouTube video (in the Google Spreadsheet as a URL) embedded below the name and date(s)
+        2b-iii. An optional YouTube video (in the CSV as a URL) embedded below the name and date(s)
   
-        2b-iv. An image (in the Google Spreadsheet as a URL) of the historical figure below the name/dates or below the video if included
+        2b-iv. An image (in the CSV as a URL) of the historical figure below the name/dates or below the video if included
     
         2b-v. A paragraph of text about the historical figure to the right of their image
 
@@ -62,15 +62,15 @@ Please help me by creating an outline of steps needed to build this page.
 
       2a. Slides from the right side of the page, covering the entire site
     
-      2b. Is to be populated (from a Google Spreadsheet through Google Apps Script) with:
+      2b. Is to be populated (from a CSV file) with:
 
         2b-i. The historical figure's name at the top
   
         2b-ii. The historical figure's date of birth (and optionally date of death) in parentheses to the right of their name
   
-        2b-iii. An optional YouTube video (in the Google Spreadsheet as a URL) embedded below the name and date(s)
+        2b-iii. An optional YouTube video (in the CSV as a URL) embedded below the name and date(s)
   
-        2b-iv. An image (in the Google Spreadsheet as a URL) of the historical figure below the name/dates or below the video if included
+        2b-iv. An image (in the CSV as a URL) of the historical figure below the name/dates or below the video if included
     
         2b-v. A paragraph of text about the historical figure to the right of their image
 
